@@ -1,3 +1,9 @@
+"""
+@author Todd
+
+"""
+
+
 import numpy as np
 
 class LM_Experiments():
