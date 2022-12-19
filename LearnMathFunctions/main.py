@@ -1,3 +1,9 @@
+"""
+@author Todd
+
+"""
+
+
 import numpy as np
 from todProj.Teask1.experiments import LM_Experiments
 from todProj.Teask1.learn import Learn
