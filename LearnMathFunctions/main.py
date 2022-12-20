@@ -10,8 +10,6 @@ from todProj.Teask1.learn import Learn
 
 
 def print_hi(text):
-    # Use a breakpoint in the code line below to debug your script.
-
     print(f'Hi, {text}')  # Press Ctrl+F8 to toggle the breakpoint.
 
 
