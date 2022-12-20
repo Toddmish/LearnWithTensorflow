@@ -10,7 +10,7 @@ from todProj.Teask1.learn import Learn
 
 
 def print_hi(text):
-    print(f'Hi, {text}')  # Press Ctrl+F8 to toggle the breakpoint.
+    print(f'Hi, {text}')  
 
 
 if __name__ == '__main__':
